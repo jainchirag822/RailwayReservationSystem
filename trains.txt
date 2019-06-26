@@ -1,0 +1,10 @@
+Code              Route					Timing
+1024		Ahmedabad to Delhi			05:30
+1045		Ahmedabad to Mumbai			07:50
+1069		Ahmedabad to Bangalore			10:20
+1132		Delhi to Ahmedabad			19:10
+1198		Delhi to Jaipur				21:50
+1187		Delhi to Chennai			23:40
+1218		Mumbai to Pune				12:00
+1250		Mumbai to Ahmedabad			14:30
+1276		Mumbai to Patna				20:00
